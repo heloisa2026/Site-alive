@@ -2,7 +2,7 @@
 
 **Projeto de desenvolvimento de uma plataforma institucional e comunitária.**
 
-🌐 **[Acessar o site](COLOQUE_AQUI_SEU_LINK_VERCEL)**
+🌐 **[Acessar o site](https://site-alive.vercel.app)**
 
 > "Cultive saber, transforme viver."
 
